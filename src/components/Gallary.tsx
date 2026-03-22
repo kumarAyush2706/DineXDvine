@@ -3,7 +3,7 @@ import { useInView } from "react-intersection-observer";
 
 const images = [
   {
-    src: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80",
+    src: "https://lh3.googleusercontent.com/p/AF1QipMwM-rnhGFm7qVOl5p30y0jF-S-LtSn5fPOhbFq=s680-w680-h510-rw",
     alt: "Dine X Divine ambiance",
     className: "col-span-2 row-span-2",
     label: "Our Space",
